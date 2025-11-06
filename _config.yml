@@ -52,9 +52,15 @@ features                                  :
 
   - title                                 : Offline Functionality
     description                           : Scan and create QR codes without an internet connection.
-    fontawesome_icon_name                 : wifi-slash
+    fontawesome_icon_name                 : plane-up
 
+  - title                                 : Read QR from image or gallery
+    description                           : Use your device's camera or photo library to scan QR codes from images.
+    fontawesome_icon_name                 : image
 
+  - title                                 : Share & Export
+    description                           : Easily share your scanned data via email, social media, or messaging apps.
+    fontawesome_icon_name                 : share
 
 # Theme Settings
 topbar_color                              : "#000000"
