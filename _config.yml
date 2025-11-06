@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Offline Functionality
     description                           : Scan and create QR codes without an internet connection.
-    fontawesome_icon_name                 : plane-up
+    fontawesome_icon_name                 : plane
 
   - title                                 : Read QR from image or gallery
     description                           : Use your device's camera or photo library to scan QR codes from images.
