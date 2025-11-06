@@ -38,13 +38,21 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Scan QR & Barcodes super fast!
+    description                           : Scan any QR code or barcode instantly. Whether it’s a product label, a website URL, or contact info.
+    fontawesome_icon_name                 : qrcode
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Create Custom QR Codes
+    description                           : Generate your own QR codes with custom text, URLs, and colors.
+    fontawesome_icon_name                 : qrcode
+
+  - title                                 : View Scan History
+    description                           : Keep track of all your scans with a built-in history feature.
+    fontawesome_icon_name                 : history
+
+  - title                                 : Offline Functionality
+    description                           : Scan and create QR codes without an internet connection.
+    fontawesome_icon_name                 : wifi-slash
 
 
 
